@@ -1,2 +1,3 @@
 hotfixer file
 new line added
+new one modified
